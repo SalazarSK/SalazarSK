@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tvoje-linkedin](https://www.linkedin.com/in/lubos-janoscik))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lubos-janoscik)  
 - 📧 Email: *lubosjanoscik@gmail.com*  
 - 🌐 Portfolio (coming soon)  
 
