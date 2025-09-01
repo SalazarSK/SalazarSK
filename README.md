@@ -1,4 +1,4 @@
-# Hi there, I'm Matúš 👋
+# Hi there, I'm Ľuboš 👋
 
 💻 **Junior Fullstack Developer** | React · Spring Boot · SQL · Docker  
 
