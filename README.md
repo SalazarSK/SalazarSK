@@ -1,5 +1,32 @@
-# 💫 About Me:
-# Hi there, I'm Ľuboš 👋<br><br>💻 **Junior Fullstack Developer** | React · Spring Boot · SQL · Docker  <br><br>---<br><br>## 🚀 About Me<br>- 🎓 Master’s in Multimedia Engineering (2025), Bachelor in Information & Network Technologies  <br>- 📚 Master Thesis: *Development of an E-shop with focus on SEO optimization (React + Spring Boot, Docker, MySQL)*  <br>- 💡 Interested in **web applications, SEO, and scalable backend solutions**  <br>- 🌍 Based in Slovakia, open for opportunities as **Java/Fullstack Developer**  <br><br>---<br><br>## 🛠️ Tech Stack<br>**Frontend:** React, JavaScript, TypeScript, HTML5, CSS3, Material UI  <br>**Backend:** Java, Spring Boot, Express.js, Node.js  <br>**Databases:** MySQL, PostgreSQL, MongoDB  <br>**Tools:** Git, Docker, GitLab CI/CD, Figma  <br><br>---<br><br>## 🔑 Major Projects<br>- 🛒 **SEO E-shop** *(Master Thesis)* – Fullstack e-commerce with SEO optimization, React + Spring Boot + MySQL, Docker, deployed on server  <br>- 📱 **Internal Android App** *(Bachelor Thesis, ISW s.r.o.)* – Employee management & lunch ordering app in Kotlin with GitLab integration  <br>- 🏋️ **Fitness Backend** – REST API with Express.js + PostgreSQL, role-based authentication (JWT)
+# Hi there, I'm Matúš 👋
+
+💻 **Junior Fullstack Developer** | React · Spring Boot · SQL · Docker  
+
+---
+
+## 🚀 About Me
+- 🎓 Master’s in Multimedia Engineering (2025), Bachelor in Information & Network Technologies  
+- 📚 Master Thesis: *Development of an E-shop with focus on SEO optimization (React + Spring Boot, Docker, MySQL)*  
+- 💡 Interested in **web applications, SEO, and scalable backend solutions**  
+- 🌍 Based in Slovakia, open for opportunities as **Java/Fullstack Developer**  
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:** React, JavaScript, TypeScript, HTML5, CSS3, Material UI  
+**Backend:** Java, Spring Boot, Express.js, Node.js  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Tools:** Git, Docker, GitLab CI/CD, Figma  
+
+---
+
+## 🔑 Major Projects
+- 🛒 **SEO E-shop** *(Master Thesis)* – Fullstack e-commerce with SEO optimization, React + Spring Boot + MySQL, Docker, deployed on server  
+- 📱 **Internal Android App** *(Bachelor Thesis, ISW s.r.o.)* – Employee management & lunch ordering app in Kotlin with GitLab integration  
+- 🏋️ **Fitness Backend** – REST API with Express.js + PostgreSQL, role-based authentication (JWT)  
+
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lubos-janoscik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lubosjanoscik@gmail.com) 
